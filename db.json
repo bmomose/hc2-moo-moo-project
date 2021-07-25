@@ -1,0 +1,88 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "photo": "https://loja.notco.com/media/catalog/product/cache/2/thumbnail/900x900/9df78eab33525d08d6e5fb8d27136e95/n/o/notmilk-integral-900x900-mock-up-3.png",
+            "name": "Leite Integral Not Milk",
+            "description": "Leite vegetal à base de grãos, coco e ZERO de colesterol, glúten e lactose",
+            "price": 14.99
+        },
+        {
+            "id": 2,
+            "photo": "https://loja.notco.com/media/catalog/product/cache/2/thumbnail/9df78eab33525d08d6e5fb8d27136e95/n/o/notco-not-burguer-200g_1.png?v=1",
+            "name": "Hamburger Not Burger",
+            "description": "Suculento hamburger vegetal à base de proteínas de grãos e fibra de bambu",
+            "price": 17.99
+        },
+        {
+            "id": 3,
+            "photo": "https://loja.notco.com/media/catalog/product/cache/2/thumbnail/900x900/9df78eab33525d08d6e5fb8d27136e95/o/r/original.png",
+            "name": "Maionese Not Mayo",
+            "description": "Deliciosa maionese à base de Aquafaba de grão de bico e especiarias",
+            "price": 11.99
+        },
+        {
+            "id": 4,
+            "photo": "https://loja.notco.com/media/catalog/product/cache/2/thumbnail/9df78eab33525d08d6e5fb8d27136e95/n/o/notco-not-ice-cream-baunilha-473ml.png?v=1",
+            "name": "Sorvete Not Ice Cream",
+            "description": "Irresistível sorvete de baunilha LIVRE de colesterol, glúten, lactose e transgênicos.",
+            "price": 34.99
+        },
+        {
+            "id": 5,
+            "photo": "https://emporioquatroestrelas.vteximg.com.br/arquivos/ids/159965-292-292/linguica-futuro-EMP.png?v=637223998712970000",
+            "name": "Linguiça Fazenda do Futuro",
+            "description": "Linguiça feita a base de plantas com sabor sem igual",
+            "price": 20.99
+        },
+        {
+            "id": 6,
+            "photo": "https://emporioquatroestrelas.vteximg.com.br/arquivos/ids/159618-1000-1000/almondega-fazenda-futuro-emp.png?v=637127818648270000",
+            "name": "Almondega Fazenda do Futuro",
+            "description": "Almondega vegetal perfeita com textura e sabor únicos.",
+            "price": 18.99
+        },
+        {
+            "id": 7,
+            "photo": "https://emporioquatroestrelas.vteximg.com.br/arquivos/ids/159519-292-292/carne-moida-vegan.png?v=637093619635170000",
+            "name": "Carne Moída Fazenda do Futuro",
+            "description": "Aquela carne moída de lei mas feita 100% a base vegetal.",
+            "price": 18.99
+        },
+        {
+            "id": 8,
+            "photo": "https://emporioquatroestrelas.vteximg.com.br/arquivos/ids/160835-1000-1000/208-FrangoVegetal-FazendaFuturo-EmporioQuatroEstrelas.png?v=637384479783870000",
+            "name": "Frango Fazenda do Futuro",
+            "description": "A textura dos cogumelos e o sabor das especiarias deixam esse frango como nenhum outro.",
+            "price": 16.99
+        },
+        {
+            "id": 9,
+            "photo": "https://emporioquatroestrelas.vteximg.com.br/arquivos/ids/159656-1000-1000/requeijao-basico.png?v=637149441356070000",
+            "name": "Requeijão Cremoso Basi.Co",
+            "description": "Requeijão cremosissímo 100% vegetal e 0% laticínios.",
+            "price": 7.99
+        },
+        {
+            "id": 10,
+            "photo": "https://emporioquatroestrelas.vteximg.com.br/arquivos/ids/160839-1000-1000/184-MinasFrescal-BasiCo-EmporioQuatroEstrelas.png?v=637384728760470000",
+            "name": "Queijo Minas Frescal Basi.Co",
+            "description": "O bom e velho queijo de minas repaginado nessa versão vegana incrível.",
+            "price": 20.99
+        },
+        {
+            "id": 11,
+            "photo": "https://emporioquatroestrelas.vteximg.com.br/arquivos/ids/159655-1000-1000/cajupiry-basico.png?v=637149440965230000",
+            "name": "Cajupiry Basi.Co",
+            "description": "A cremosidade e o sabor do Catupiry feito à base de caju. Esse é o Cajupiry.",
+            "price": 25.99
+        },
+        {
+            "id": 12,
+            "photo": "https://emporioquatroestrelas.vteximg.com.br/arquivos/ids/159653-1000-1000/queijo-prato-basico.png?v=637149438251600000",
+            "name": "Queijo Prato Basi.Co",
+            "description": "Para dar aquele sabor especial na sua pizza vegana, esse queijo prato é sensacional.",
+            "price": 25.99
+        }
+    ]
+}
